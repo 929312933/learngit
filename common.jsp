@@ -41,17 +41,4 @@ var domain = {
 		chexian: "${domains.chexian}",
 		blk:"${domains.blk}"
 	};
-	
-	var jsonPageInfo = {
-		"pageId" : "",
-		"categoryId" : "",
-		"searchTerm" : "",
-		"searchResult" : "",
-		"exportAttributes" : ""
-	};
-
-	var pageInfoJson = "${fn:replace(pageInfoJson,'\"','\\\"')}";
-	if (pageInfoJson) {
-		jsonPageInfo = eval("(" + pageInfoJson + ")");
-	}
 </script>
