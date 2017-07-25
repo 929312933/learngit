@@ -22,6 +22,7 @@ var domain = {
 		tuan : "${domains.tuan}",
 		order : "${domains.channel}",
 		js : "${domains.js}",
+		hot: "${domains.hot}",
 		image : "${domains.image}",
 		chongzhi : "${domains.chongzhi}",
 		jiaofei : "${domains.jiaofei}",
