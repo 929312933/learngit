@@ -5,8 +5,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn"%>
 <%@ taglib prefix="domain" uri="http://www.iokbl/jsp/tag/domain"%>
-<!-- new common in localhost -->
 <script>
+<!-- new common in localhost -->
 var domain = {
 		main : "${domains.main}",
 		help : "${domains.help}",
