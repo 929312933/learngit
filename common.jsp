@@ -41,5 +41,5 @@ var domain = {
 		chexian: "${domains.chexian}",
 		blk:"${domains.blk}"
 	};
-	加上这句肯定是对的
+	加上这句肯定是不对的
 </script>
