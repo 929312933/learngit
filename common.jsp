@@ -40,7 +40,6 @@ var domain = {
 		dc2: "${domains.dc2}",
 		chexian: "${domains.chexian}",
 		blk:"${domains.blk}"
-		解决版本冲突
 
 	};
 </script>
